@@ -1,2 +1,2 @@
-# TAIRP_portfolio
+# portfolio
 Portfolio website created using HTML,CSS and Javascript
